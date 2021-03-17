@@ -14,36 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "Button1.json"
+        "Textarea1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "Input1.json"
+        "Progressbar1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "Jumbotron1.json"
+        "Button5.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "Button4.json"
+        "Jumbotron2.json"
       ]
     }
   ],
@@ -52,8 +52,8 @@
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
-  "id": "membership",
+  "height": "550",
+  "id": "newControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -61,13 +61,11 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "membership.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
