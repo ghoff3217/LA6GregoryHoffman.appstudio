@@ -14,36 +14,63 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "calculator",
         "Elements",
-        "Button1.json"
+        "Input2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "calculator",
         "Elements",
-        "Input1.json"
+        "Button2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "calculator",
         "Elements",
-        "Jumbotron1.json"
+        "Input3.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "calculator",
         "Elements",
-        "Button4.json"
+        "Input4.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "Button3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "Label1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "Button6.json"
       ]
     }
   ],
@@ -53,7 +80,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "membership",
+  "id": "calculator",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -61,13 +88,11 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "membership.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
